@@ -1,3 +1,9 @@
+if you can use yolo-v3, you also could use yolo-v4.
+
+
+I put the weight file which is practiced by 1950 truck datas in weightfile. 
+
+
 # Yolo-v4 and Yolo-v3/v2 for Windows and Linux
 ### (neural network for object detection) - Tensor Cores can be used on [Linux](https://github.com/AlexeyAB/darknet#how-to-compile-on-linux) and [Windows](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake-gui)
 
