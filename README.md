@@ -1,7 +1,7 @@
 if you can use yolo-v3, you also could use yolo-v4.
 
 
-I put the weight file which is practiced by 1950 truck datas in weightfile. 
+You can download the weight file which is practiced by 1950 truck datas [here](https://drive.google.com/file/d/1Fz_TR-rm1Q1Il0iwxDpEvvvkdn2ZpxZB/view?usp=sharing). 
 
 
 # Yolo-v4 and Yolo-v3/v2 for Windows and Linux
